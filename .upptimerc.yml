@@ -18,6 +18,31 @@ sites:
     expectedStatusCodes:
       - 200
 
+  - name: Anthropic API
+    url: https://api.anthropic.com/v1/messages
+    expectedStatusCodes:
+      - 401
+
+  - name: OpenAI API
+    url: https://api.openai.com/v1/models
+    expectedStatusCodes:
+      - 401
+
+  - name: Google AI API
+    url: https://generativelanguage.googleapis.com/v1beta/models
+    expectedStatusCodes:
+      - 400
+
+  - name: Groq API
+    url: https://api.groq.com/openai/v1/models
+    expectedStatusCodes:
+      - 401
+
+  - name: Mistral API
+    url: https://api.mistral.ai/v1/models
+    expectedStatusCodes:
+      - 401
+
 status-website:
   cname: status.dynamisai.io
   name: Dynamis AI Status
