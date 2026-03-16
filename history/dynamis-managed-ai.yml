@@ -1,7 +1,7 @@
 url: https://openrouter.ai/api/v1/models
-status: up
-code: 200
-responseTime: 228
-lastUpdated: 2026-03-16T04:38:51.946Z
+status: down
+code: 408
+responseTime: 10047
+lastUpdated: 2026-03-16T04:43:25.578Z
 startTime: 2026-03-16T04:28:47.999Z
 generator: Upptime <https://github.com/upptime/upptime>
