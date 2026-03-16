@@ -14,9 +14,9 @@ sites:
       - 200
 
   - name: Dynamis AI API
-    url: https://dynamisai.io/api/admin/check
+    url: https://dynamisai.io/api/auth/providers
     expectedStatusCodes:
-      - 401
+      - 200
 
 status-website:
   cname: status.dynamisai.io
