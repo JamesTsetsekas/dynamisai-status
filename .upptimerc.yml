@@ -14,7 +14,7 @@ sites:
       - 200
 
   - name: Dynamis AI API
-    url: https://dynamisai.io/api/auth/providers
+    url: https://dynamisai.io/pricing
     expectedStatusCodes:
       - 200
 
