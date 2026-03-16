@@ -1,4 +1,4 @@
-# Dynamis AI Status Page — Powered by Upptime
+# Dynamis AI Status Page
 owner: JamesTsetsekas
 repo: dynamisai-status
 
@@ -13,7 +13,7 @@ sites:
     expectedStatusCodes:
       - 200
 
-  - name: AI Provider (OpenRouter)
+  - name: Dynamis Managed AI
     url: https://openrouter.ai/api/v1/models
     expectedStatusCodes:
       - 200
@@ -29,6 +29,7 @@ status-website:
       href: https://dynamisai.io
     - title: Docs
       href: https://dynamisai.io/docs
+  footerBuilder: false
 
   i18n:
     activeIncidents: Active Incidents
