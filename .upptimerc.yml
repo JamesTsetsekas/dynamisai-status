@@ -54,12 +54,11 @@ status-website:
       href: https://dynamisai.io
     - title: Docs
       href: https://dynamisai.io/docs
-  footerBuilder: false
-
   i18n:
     activeIncidents: Active Incidents
     allSystemsOperational: All Systems Operational
     incidentReport: Incident Report
+    footer: "© 2026 [Dynamis AI](https://dynamisai.io) · All rights reserved."
 
 user-agent: "Dynamis AI Uptime Monitor"
 
