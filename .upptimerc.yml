@@ -13,8 +13,8 @@ sites:
     expectedStatusCodes:
       - 200
 
-  - name: Dynamis AI API
-    url: https://dynamisai.io/pricing
+  - name: AI Provider (OpenRouter)
+    url: https://openrouter.ai/api/v1/models
     expectedStatusCodes:
       - 200
 
