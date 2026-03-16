@@ -5,11 +5,13 @@ repo: dynamisai-status
 sites:
   - name: Dynamis AI Website
     url: https://dynamisai.io
+    icon: https://dynamisai.io/favicon.svg
     expectedStatusCodes:
       - 200
 
   - name: Dynamis AI Dashboard
     url: https://dynamisai.io/dashboard/login
+    icon: https://dynamisai.io/favicon.svg
     expectedStatusCodes:
       - 200
 
