@@ -15,6 +15,7 @@ sites:
 
   - name: Dynamis Managed AI
     url: https://openrouter.ai/api/v1/models
+    icon: https://dynamisai.io/favicon.svg
     expectedStatusCodes:
       - 200
 
