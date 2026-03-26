@@ -40,18 +40,20 @@
     "url": "https://openrouter.ai/api/v1/models",
     "icon": "https://dynamisai.io/favicon.svg",
     "slug": "dynamis-managed-ai",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 702,
-    "timeDay": 119,
-    "timeWeek": 192,
-    "timeMonth": 702,
-    "timeYear": 702,
-    "dailyMinutesDown": {}
+    "time": 1170,
+    "timeDay": 5088,
+    "timeWeek": 1425,
+    "timeMonth": 1170,
+    "timeYear": 1170,
+    "dailyMinutesDown": {
+      "2026-03-26": 0
+    }
   },
   {
     "name": "Anthropic API",
