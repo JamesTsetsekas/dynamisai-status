@@ -1,7 +1,7 @@
 url: https://api.anthropic.com/v1/messages
 status: up
 code: 405
-responseTime: 46
-lastUpdated: 2026-04-11T23:10:41.630Z
+responseTime: 38
+lastUpdated: 2026-04-12T23:11:34.657Z
 startTime: 2026-03-16T04:28:48.492Z
 generator: Upptime <https://github.com/upptime/upptime>
