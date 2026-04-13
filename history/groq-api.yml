@@ -1,7 +1,7 @@
 url: https://api.groq.com/openai/v1/models
 status: up
 code: 401
-responseTime: 102
-lastUpdated: 2026-04-12T23:11:35.532Z
+responseTime: 131
+lastUpdated: 2026-04-13T23:17:55.610Z
 startTime: 2026-03-16T04:28:49.831Z
 generator: Upptime <https://github.com/upptime/upptime>
